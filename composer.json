@@ -2,7 +2,7 @@
   "name": "magento/project-community-edition",
   "description": "eCommerce Platform for Growth (Community Edition)",
   "type": "project",
-  "version": "2.2.0-dev",
+  "version": "2.2.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
